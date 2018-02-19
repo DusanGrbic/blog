@@ -1,0 +1,1 @@
+<h1>Welcome to Laracast, {{ $user->name }}!</h1>
